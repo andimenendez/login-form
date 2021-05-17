@@ -1,0 +1,40 @@
+#formulario {
+    background-color: beige;
+    margin: 0 auto;
+    width: 50%;
+    border: thin dotted black; 
+    border-radius: 5rem;
+}
+form{
+    text-align: center;
+    width: 50%;
+    margin:  0 auto;
+    display: flex;
+    flex-direction: column;
+    
+   
+}
+
+form label{
+    text-align: left;
+    padding-top: 1em;
+}
+
+form input{
+    margin-top: 0.25em;
+}
+#btn-saludar{
+    margin: 0 auto;
+    width: 20%;
+    margin-top: 1.5em;
+    padding:0.1em;
+    margin-bottom: 1em;
+}
+
+h1{
+    text-align: center;
+    color: burlywood;
+    margin-top: 1.5em;
+    
+
+}
